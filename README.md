@@ -1,2 +1,2 @@
 # vrb2json
-Simple HTTP Service, that converts VRB statements into json.
+Simple HTTP service, that converts VRB statements into json.
